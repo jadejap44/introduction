@@ -40,7 +40,7 @@ As an Information Security Analyst, my goal is to leverage my expertise in compl
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    
 </div>
 
 ## Certifications
@@ -49,6 +49,7 @@ As an Information Security Analyst, my goal is to leverage my expertise in compl
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00BFFF?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20AZ104-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 
 </div>
