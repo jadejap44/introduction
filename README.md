@@ -1,14 +1,12 @@
 # Hello, I am Jeet
 <a href="https://www.linkedin.com/in/pushpajitsinh/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Hi, I'm Jeet Jadeja, a curious IT Security Analyst with a strong background in cybersecurity and IT support. With a Master's degree in IT (Cybersecurity) and hands-on experience at Forever New Clothing and Wipro, I have honed my skills in threat management, incident response, and network administration. I am passionate about safeguarding information systems and ensuring robust security protocols to protect organizational assets
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As an Information Security Analyst, my goal is to leverage my expertise in compliance management, cloud security, and incident postmortem to contribute to the protection and integrity of your organization's IT infrastructure. I aim to apply my skills in phishing analysis, security breach investigation, and user account administration to enhance your cybersecurity measures and support a secure and efficient IT environment. Through collaboration, continuous learning, and proactive problem-solving, I am committed to mitigating risks and ensuring the highest standards of security for your organization.
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
