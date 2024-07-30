@@ -47,7 +47,7 @@ As an Information Security Analyst, my goal is to leverage my expertise in compl
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft%20SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<a href= "https://www.credly.com/badges/ccce37c7-2df1-4272-8af0-9b0ddbace111/linked_in_profile"><img src="https://img.shields.io/badge/-Microsoft%20SC900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00BFFF?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20AZ104-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
